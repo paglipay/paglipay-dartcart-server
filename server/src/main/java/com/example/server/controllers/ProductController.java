@@ -44,9 +44,4 @@ public class ProductController {
   //	  return ps.addProduct(product);
   //  }
 
-  // @GetMapping("/products/{id}")
-  // @ResponseBody
-  // public ResponseEntity<String> getProductById(@PathVariable("id") String id) {
-  // 		return new ResponseEntity<String>("HI " + id, HttpStatus.OK);
-  //  }
 }
